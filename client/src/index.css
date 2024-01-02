@@ -169,7 +169,11 @@
     border: 2px solid #bc70cb;
     border-radius: 20px;
     font-size: 25px;
+    width: 100%;
 }
 .line{
     border-bottom: 2px solid white;
+}
+input{
+    width: 100%;
 }
