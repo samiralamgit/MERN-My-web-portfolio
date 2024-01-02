@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fdfg{
+    color: rgb(37, 37, 160);
+}
+.navbar,
+.navbar-brand{
+    font-size: 1.6rem;
+    font-weight: 200;
+}
+.icon{
+    width: 7%;
+}
+.git-btn{
+    border-radius: 20px;
+    border: 2px solid rgb(85, 85, 238);
+    background: transparent;
+    color: rgb(85, 85, 238);
+    padding: 3px;
+    transition: 2s;
+}
+.git-btn:hover{
+    background-color: rgb(85, 85, 238);
+    color: white;
+    border: 2px solid white;
+}
+
+/* FOOTER */
+.icons,.name{
+    color: white;
+    font-size: 2rem;
+}
+.insta{
+    color: #cd486b;
+}
+.facebook{
+    color: #4267B2;
+}
+.linkedin{
+    color: #0a66c2;
+}
+.twitter{
+    color: #1DA1F2;
+}
+.insta,.facebook,.twitter,.linkedin{
+    margin: 20px;
+}
+.copy-right{
+    color: white;
+    margin-top: 18x;
+}
+.footer{
+    background-color: black;
+}
+
+/* About---- */
+.pro-pic{
+    width: 60%;
+    border-radius: 100%;
+    border: 2px solid red;
+}
+.about{
+    background-color: #040b13;
+}
+    /* padding: 40px; */
+
+.intro-1,.intro-2{
+    color: white;
+    font-weight: bolder;
+}
+.pragraph{
+    font-weight: 200;
+    font-size: 1.5rem;
+    color: rgb(180, 176, 176);
+}
+.resume-btn{
+    padding: 10px;
+    color: white;
+    background-color: #124e8e;
+    border-radius: 30px;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    border: 2px solid white;
+}
+
+/* Skills */
+.skills{
+    background-color: #031323;
+}
+.card{
+    border: 2px solid rgb(53, 53, 90);
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(129, 129, 129, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    background: black;
+    color: white;
+}
+.skill-items{
+    border: 2px solid rgb(115, 113, 113);
+    color: rgb(115, 113, 113);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+/* Experience */
+.experience{
+    background-color: #0c141c;
+}
+.intern-pic{
+    width: 20%;
+    border-radius: 20%;
+}
+.t-color{
+    color: rgb(170, 167, 167);
+}
+.code-pic{
+    width: 25%;
+    border-radius: 10%;
+}
+/* Project */
+.project{
+    background-color: #0a1017;
+}
+.project-img img{
+    width: 100%;
+}
+.tech-use{
+    border: 2px solid rgb(162, 162, 165);
+    padding: 3px;
+    border-radius: 10px;
+    margin: 5px;
+    color: #85b4e6;
+}
+
+/* Education */
+.education{
+    background-color: #0c0d0e;
+}
+.assam-logo{
+    width: 20%;
+    border-radius: 20%;
+}
+.up-board{
+    background-color: white;
+    width: 25%;
+    border-radius: 100%;
+}
+.grade{
+    font-weight: bolder;
+}
+/* Contact */
+
+.contact{
+    background-color: #030f1b;
+}
+.input-field{
+    padding: 10px;
+    background-color: #031323;
+    color: white;
+    border: 2px solid rgb(58, 58, 104);
+    border-radius: 20px;
+}
+.send-btn{
+    padding: 10px;
+    background-color: #430c4e;
+    color: white;
+    border: 2px solid #bc70cb;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.line{
+    border-bottom: 2px solid white;
+}
